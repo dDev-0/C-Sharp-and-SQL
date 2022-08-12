@@ -1,0 +1,27 @@
+D:\Visual Studio 2015\Projects\f\f\bin\Debug\f.exe.config
+D:\Visual Studio 2015\Projects\f\f\bin\Debug\f.exe
+D:\Visual Studio 2015\Projects\f\f\bin\Debug\f.pdb
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.Form1.resources
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.exe
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.pdb
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.Form2.resources
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.Form3.resources
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.Form4.resources
+D:\Visual Studio 2015\Projects\f\f\obj\Debug\f.QueryForm.resources
+C:\Users\Артем\Downloads\f\f\bin\Debug\f.exe.config
+C:\Users\Артем\Downloads\f\f\bin\Debug\f.exe
+C:\Users\Артем\Downloads\f\f\bin\Debug\f.pdb
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.csproj.AssemblyReference.cache
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.Form1.resources
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.Form2.resources
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.Form3.resources
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.Form4.resources
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.Properties.Resources.resources
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.QueryForm.resources
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.csproj.GenerateResource.cache
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.exe
+C:\Users\Артем\Downloads\f\f\obj\Debug\f.pdb
